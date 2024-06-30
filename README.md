@@ -11,3 +11,4 @@ This project is a simple portfolio webpage created as part of the HTML, advanced
 The following fonts are used in this project:
 - [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
 - [Spin Cycle OT](https://example.com/link-to-spin-cycle-ot)
+![alt text](<School Page@2x.png>)
