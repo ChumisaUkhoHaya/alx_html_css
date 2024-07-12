@@ -1,0 +1,13 @@
+<svg width="2800" height="1866" viewBox="0 0 2800 1866" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask_0_0_325" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1400" height="933">
+<rect  x="0" y="0" width="2800" height="1866" fill="url(#pattern_0_0_325)"/>
+</mask>
+<rect  x="0" y="0" width="2800" height="1866" fill="#000000" style="mix-blend-mode:color"/>
+<rect  x="0" y="0" width="2800" height="1866" fill="url(#pf_1_0_326)"/>
+<defs>
+<radialGradient id="pf_1_0_326" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 933 -1400 0 700 0)">
+<stop stop-color="#29303D" stop-opacity="0"/>
+<stop offset="1" stop-color="#071629"/>
+</radialGradient>
+</defs>
+</svg>
